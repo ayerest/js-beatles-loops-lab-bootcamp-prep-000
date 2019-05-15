@@ -15,5 +15,5 @@ function johnLennonFacts(facts) {
     new_facts.push(`${facts[i]}!!!`);
     i++;
   }
-  return facts;
+  return new_facts;
 }
